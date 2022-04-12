@@ -1,0 +1,15 @@
+.kz-btn {
+    width: 92%;
+    margin: 5px;
+}
+.kz-input-text {
+    margin-top: 5px;
+    width: 98%;
+    margin-left: 4px
+}
+.kz-pad-20 {
+    padding: 20px;
+}
+.col-xs-3, .col-xs-9 {
+    padding: 0px;
+}
